@@ -55,7 +55,7 @@ Please download and unzip the data into `data` dir under the same level of these
 
 ## Use Of Lance
 
-The parameters used by LANCE is in **FTRLIM: Distributed Instance Matching Framework\\ for Large-Scale Knowledge Graphs**
+The parameters used by LANCE is in **FTRLIM: Distributed Instance Matching Framework for Large-Scale Knowledge Graphs**
 
 
 
